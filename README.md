@@ -7,6 +7,7 @@
 
 Most of us love wine. A good wine always makes the occasion better. Its always the quality of the wine that matters . Lets apply machine learning model to figure  out what makes a qood quality wine.
 For this project , I have used the Wine Dataset from UC Irvine Machine Learning Repository.It consists 11 input variables to predict the quality of wine .
+
 **1.Fixed acidity**
 
 **2.Volatile acidity**
