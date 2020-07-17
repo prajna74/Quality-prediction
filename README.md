@@ -7,29 +7,29 @@
 
 Most of us love wine. A good wine always makes the occasion better. Its always the quality of the wine that matters . Lets apply machine learning model to figure  out what makes a qood quality wine.
 For this project , I have used the Wine Dataset from UC Irvine Machine Learning Repository.It consists 11 input variables to predict the quality of wine .
-**1.Fixed acidity
+**1.Fixed acidity**
 
-2.Volatile acidity
+**2.Volatile acidity**
 
-3.Citric acid
+**3.Citric acid**
 
-4.Residual sugar
+**4.Residual sugar**
 
-5.Chlorides
+**5.Chlorides**
 
-6.Free sulfur dioxide
+**6.Free sulfur dioxide**
 
-7.Total sulfur dioxide
+**7.Total sulfur dioxide**
 
-8.Density
+**8.Density**
 
-9.pH
+**9.pH**
 
-10.Sulfates
+**10.Sulfates**
 
-11.Alcohol**
+**11.Alcohol**
 
-We can predict the quality of wine using different models which yeilds different results. Here we use **Scikit-learn’s Decision Tree Classifier**.Decision trees are intuitive and easy to build . Let's learn more about Decision trees.
+We can predict the quality of wine using different models which yields different results. Here we use **Scikit-learn’s Decision Tree Classifier**.Decision trees are intuitive and easy to build . Let's learn more about Decision trees.
 
 # **Decision Tree** #
 ![Decision tree](https://miro.medium.com/max/945/1*f_tt4OIzuY4yoPrnFP0gdA.png)
